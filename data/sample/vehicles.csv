@@ -1,0 +1,5 @@
+vehicle_id,capacity_kg,capacity_m3,cost_per_km,cost_per_hour,start_time,end_time
+V001,2500,14,0.62,24,07:30,17:00
+V002,2500,14,0.62,24,07:30,17:00
+V003,1800,10,0.55,23,08:00,16:30
+V004,1800,10,0.55,23,08:00,16:30

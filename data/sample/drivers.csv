@@ -1,0 +1,5 @@
+driver_id,vehicle_id,shift_start,shift_end,hourly_cost
+DRV001,V001,07:30,17:00,24
+DRV002,V002,07:30,17:00,24
+DRV003,V003,08:00,16:30,23
+DRV004,V004,08:00,16:30,23
